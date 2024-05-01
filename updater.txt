@@ -1,13 +1,13 @@
 {
   "SDKMOD_update": [
     {
- "version":"5.75.0",
+ "version":"5.76.0",
  "title":"Update Tersedia",
  "description":"SDK Mod InDriver recommends that you
-update to the latest version 5.75.0 You
+update to the latest version 5.76.0 You
 can keep online the app while
 downloading the update.",
-"download":"https://drive.google.com/APK BISA DI UPLOAD DI GOOGLE DRIVE"
+"download":"https://drive.google.com/file/d/13uod1zRB76vcjiDtBs0S2pBbbVE7IpSo/view?usp=drivesdk"
 }
   ]
 }
